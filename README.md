@@ -1,6 +1,6 @@
 # GNTSQID
 I'm a security guy who can code sometimes.
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/ResponseCode/500%20InternalServerError.png">
+<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/ResponseCode/500%20InternalServerError.png" height=50 width=50>
 ---
 
 Languages:
