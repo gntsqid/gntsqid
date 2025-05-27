@@ -9,13 +9,9 @@
 ---
 
 ## Languages
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+| <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="90" height="90" alt="Python Logo" /> | <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="90" height="90" alt="Ruby Logo" /> |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="90" height="90" alt="Python Logo" />
-  
-  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="90" height="90" alt="Ruby Logo" />
-
-</div>
 
 ---
 <a href="https://ko-fi.com/gntsqid" target="_blank" rel="noopener noreferrer">
