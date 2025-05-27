@@ -1,4 +1,5 @@
 @gntsqid
+
 <a href="https://ko-fi.com/gntsqid" target="_blank" rel="noopener noreferrer">
-  <button type="button">Buy me a coffee</button>
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee at ko-fi.com" />
 </a>
