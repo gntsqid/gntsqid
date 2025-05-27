@@ -3,11 +3,11 @@
 
   <p>I'm a security guy who can code sometimes.</p>
   
-  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="90" height="90" alt="Ruby Logo" />
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/ResponseCode/500%20InternalServerError.png" height=120 width=240>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/ResponseCode/500%20InternalServerError.png" height=120 width=240>
+
 
 ---
 
