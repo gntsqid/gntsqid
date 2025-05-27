@@ -9,8 +9,13 @@
 ---
 
 ## Languages
-| <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="90" height="90" alt="Python Logo" /> | <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="90" height="90" alt="Ruby Logo" /> |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+## Languages
+
+| Language | Logo |
+|----------|------|
+| Python   | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" height="60" alt="Python Logo" /> |
+| Ruby     | <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="60" height="60" alt="Ruby Logo" /> |
+
 
 
 ---
