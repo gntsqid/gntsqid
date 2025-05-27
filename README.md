@@ -1,7 +1,7 @@
 # GNTSQID
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
 
-  <p>I'm a security guy who can code sometimes.</p>
+  <span>I'm a security guy who can code sometimes.</span>
   
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/ResponseCode/500%20InternalServerError.png" height=120 width=240>
 
